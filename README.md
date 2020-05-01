@@ -110,7 +110,7 @@ export function InputOverride(): Override {
       borderWidthFocus: 3,
       backgroundColorFocus: '#F2F2F2',
       placeholderColorFocus: '#888',
-      selectionColordd: 'red',
+      selectionColor: 'red',
       selectionBackgroundColor: 'rgba(255,0,0,0.3)',
       onValueChange(value) {
          data.value = value
